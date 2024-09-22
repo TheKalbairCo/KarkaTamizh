@@ -17,11 +17,11 @@ Players step into the shoes of a boy born in a picturesque village, which serves
 While **Karkatamizh** is no longer actively developed, I welcome external contributions to enhance the project. There are opportunities for expanding traditional game content and improving cultural representation.
 
 ## Screenshots:
-<img src= "s1">
-<img src= "s2">
-<img src= "s3">
-<img src= "s4">
-<img src= "s5">
+<img src= "s1.png">
+<img src= "s2.png">
+<img src= "s3.png">
+<img src= "s4.png">
+<img src= "s5.png">
 
 
 ## How to Contribute:
