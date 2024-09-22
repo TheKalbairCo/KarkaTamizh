@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: edb2d3567dca4d6489f41779bd0c190b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - StonePrefab: {fileID: 7683207117269829818, guid: 2edcd5472abe0447ebb1d35a4aefc336,
+      type: 3}
+  - StartingTile: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
